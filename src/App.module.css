@@ -1,0 +1,10 @@
+.content {
+  width: 1300px;
+  height: 1000px;
+  margin: 10px auto;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background-color: aquamarine;
+}

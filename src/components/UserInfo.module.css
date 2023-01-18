@@ -1,0 +1,33 @@
+.container {
+  width: 280px;
+  height: 280px;
+  margin-top: 20px;
+}
+
+.header {
+  width: 230px;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+.id {
+  border: 1px solid black;
+  width: 30px;
+  height: 20px;
+  text-align: center;
+}
+
+.container p {
+  text-align: center;
+}
+
+.thumbnailUrl {
+ 
+  width: 260px;
+  height: 130px;
+  text-align: center;
+  margin: 15px 10px;
+  align-items: center;
+  text-align: center;
+}
